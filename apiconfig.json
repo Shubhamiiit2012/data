@@ -1,0 +1,11 @@
+{    
+    "platform": {
+        "name": "Platform",
+        "protocol": "http",
+        "baseURL": "servicesqa.hmadev.com",
+        "publicPath": "/v0",
+        "headers" : {},
+        "auth": "key",
+        "keyParam": "accessToken"
+    }
+}
