@@ -1,7 +1,7 @@
 {
    "endpoints":[
       {
-         "name":"NLPTeneo Patients APIs",
+         "name":"Patients",
          "methods":[
             {
                "MethodName":"Patients list",
@@ -305,7 +305,7 @@
             ]
          },
          {
-            "name":"NLPTeneo Nurses APIs",
+            "name":"Nurses",
             "methods":[
                 {
                "MethodName":"Nurses list",
@@ -610,7 +610,7 @@
             ]
          },
          {
-            "name":"NLPTeneo Divisions",
+            "name":"Divisions",
             "methods":[
                     {
                "MethodName":"Divisions List",
@@ -766,7 +766,7 @@
             ]
          },
          {
-            "name":"NLPTeneo Dashboard Facilites",
+            "name":"Dashboard Facilites",
             "methods":[
                     {
                "MethodName" : "Facilities List",
